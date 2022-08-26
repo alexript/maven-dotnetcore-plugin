@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>maven.plugin.dotnetcore</groupId>
     <artifactId>maven-dotnetcore-plugin</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -14,5 +14,6 @@
     <description>[PROTOTYPE] use dotnet core in maven-centric projects </description>
     <modules>
         <module>downloader</module>
+        <module>plugin</module>
     </modules>
 </project>
