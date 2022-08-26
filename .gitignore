@@ -1,5 +1,6 @@
-/target
+target
 /.vs
 /bin
 /obj
 /nb-configuration.xml
+
